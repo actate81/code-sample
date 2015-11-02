@@ -1,0 +1,14 @@
+This sample of PHP code is designed to show my ability working with the language, particularly it's Object Oriented capabilities.
+
+Some aspects of coding with PHP that are covered include:
+
+* Working with SPL_Autoload functionality to autoload classes.
+* Using Namespaces
+* Using a Factory to create objects
+* Utilizing the Observer pattern to observe the functionality of an object.
+* Using an anonymous function.
+* Writing and running a test through PHPUnit
+* Handling Exceptions with try/catch block
+* Documenting code with DocBlocks
+
+I've included a file to run the code on the command line, as well as a PHPUnit Test Case that effectively does the same thing.
